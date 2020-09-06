@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keep It Curious</title>
+    <link>kelseyguarino.github.io/</link>
+    <description>Recent content on Keep It Curious</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Sep 2020 10:54:56 +0200</lastBuildDate>
+    
+	<atom:link href="kelseyguarino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>kelseyguarino.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 06 Sep 2020 10:54:56 +0200</pubDate>
+      
+      <guid>kelseyguarino.github.io/posts/my-first-post/</guid>
+      <description>Heading Paragraph
+H.2 Heading  Quote
+ Anoher paragraph. This is in the same paragraph.
+This is a different paragraph.
+===
+broken page ^ it&amp;rsquo;s not broken my husband is a liar</description>
+    </item>
+    
+  </channel>
+</rss>
